@@ -1,5 +1,5 @@
 melb_df <- read.table(
-  file = "melbourne.csv",
+  file = "data/melbourne.csv",
   header = TRUE,
   sep = ",",
   skip = 11)
